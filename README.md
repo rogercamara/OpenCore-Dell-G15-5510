@@ -2,7 +2,7 @@
 
 EFI config for Dell G15-5510 
 
-Please, pay attention to the config details. I recommend to read the open core install guide before run this EFI. Compare your system details with the config and use at your own risk, please, hehe. Sometimes the computer name is the name but its architeture/hardware isnt.
+Please, pay attention to the config details. I recommend to read the open core install guide before run this EFI. Compare your system details with the config and use at your own risk, please, hehe. Computers names or identificators doesnt means that the architeture or hardware is the same.
 
 #### MACOS MONTEREY
 ---
