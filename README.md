@@ -2,18 +2,22 @@
 EFI config for Dell G15-5510 
 
 ## MACOS MONTEREY
-## Intel I5 Commet Lake 10G
+## Intel i5 10500 Commet Lake 
+---
+## Working
+---
 ### 64 GB RAM DDR 4 (2x 32GB)
 ### 2 TB SSD MVME (2x 1TB)
-### IGUP INTEL 630 
-### HDMI WORKING
-### BLUETOOTH WORKING
-### WIFI AX 6G WORKING / KILLER WIFI
+### INTEL UHD 630 
+### HDMI 
+### BLUETOOTH 
+### KILLER AX 1650 WIFI 6
 ### USB MAPPED 
 ### KEYBOARD MAPPED
-### 630 120HZ WORKING
-
---- NOT WORKING PROPERLY
+### 15.6" 120HZ 
+---
+# Not working
+---
 
 ### TRACKPAD AS MOUSE 
 ### GEFORCE RTX 1650
